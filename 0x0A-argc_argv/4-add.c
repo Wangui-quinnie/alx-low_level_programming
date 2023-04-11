@@ -1,11 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
- *Main -entry point
- *@argc: argument count
- *@argv: argument vector
- *Return: return 1 if one of the numbers contains symbols that are not digits
- */
+  *main - adds positive numbers
+  *
+  *@argc: argument count
+  *@argv: argument vector
+  *Return: 0 (success)
+  */
+
 int main(int argc, char *argv[])
 {
 	int result = 0, num, i, j, k;
