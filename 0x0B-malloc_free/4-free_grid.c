@@ -5,6 +5,7 @@
 /**
   *free_grid - frees a 2D grid
   *@height: height of the grid
+  *@grid: pointer to the grid to be freed
   *Return: void
   */
 
