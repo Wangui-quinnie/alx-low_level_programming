@@ -1,1 +1,0 @@
-C AlgorithmData structure
